@@ -1,4 +1,6 @@
 # RANK-OF-A-MATRIX
+NAME: SAI VISHAL D<br>
+REF.NO: 23013576
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
